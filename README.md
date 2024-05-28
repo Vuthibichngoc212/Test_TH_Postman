@@ -90,7 +90,11 @@ Kịch Bản Kiểm Thử Lần 4:
   Kết quả sau khi kiểm thử:
   ![image](https://github.com/Vuthibichngoc212/Test_TH_Postman/assets/96900628/5fafa954-83d1-4a3d-b59a-b9ed6b8ce99f)
 5. Tạo bộ sưu tập dữ liệu để quản lý nhiều yêu cầu và biến.
+![image](https://github.com/Vuthibichngoc212/Test_TH_Postman/assets/96900628/e120fc0f-5a49-4b66-88b7-b2d5f3b5f681)
+
 6. Xác minh tính hợp lệ của JSON bằng công cụ JSON validator trong Postman.
-7. Sử dụng Postman để kiểm tra hiệu suất API bằng cách đo thời gian phản hồi.
+7. ![image](https://github.com/Vuthibichngoc212/Test_TH_Postman/assets/96900628/297203b1-4901-46d2-926e-3045b79cb3c8)
+
+8. Sử dụng Postman để kiểm tra hiệu suất API bằng cách đo thời gian phản hồi.
 ![image](https://github.com/Vuthibichngoc212/Test_TH_Postman/assets/96900628/018698cb-ab0e-4b4e-9161-b4b8d1719ad7)
 
